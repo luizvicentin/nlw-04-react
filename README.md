@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NLW04" src="https://github.com/luizvicentin/nlw-04-react/blob/main/moveit-next/public/Wallpaper%20-%201440x900.png" width="400px" />
+    <img alt="NLW04" src="https://github.com/luizvicentin/nlw-04-react/blob/main/moveit-next/public/NLW04.jpg" width="600px" />
 </h1>
 
 <h3 align="center">
@@ -11,15 +11,15 @@
 <p align="center">
 
   <a href="https://github.com/luizvicentin">
-    <img alt="Made by Luiz Vicentin" src="https://img.shields.io/badge/made%20by-LuizVicentin-%23F8952D">
+    <img alt="Made by Luiz Vicentin" src="https://img.shields.io/badge/made%20by-LuizVicentin-%234953b8">
   </a>
 
   <a href="https://linkedin.com/in/luizvicentin/">
-    <img alt="Made by Luiz Vicentin" src="https://img.shields.io/badge/-Linkedin-%230E7FC0">
+    <img alt="Made by Luiz Vicentin" src="https://img.shields.io/badge/-Linkedin-%4953b8">
   </a>
 
   <a href="LICENSE" >
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%4953b8">
   </a>
 
 </p>
