@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
+    <img alt="NLW04" src="https://github.com/luizvicentin/nlw-04-react/blob/main/moveit-next/public/Wallpaper%20-%201440x900.png" width="400px" />
 </h1>
 
 <h3 align="center">
