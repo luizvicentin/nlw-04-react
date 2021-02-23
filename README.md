@@ -15,11 +15,11 @@
   </a>
 
   <a href="https://linkedin.com/in/luizvicentin/">
-    <img alt="Made by Luiz Vicentin" src="https://img.shields.io/badge/-Linkedin-%4953b8">
+    <img alt="Made by Luiz Vicentin" src="https://img.shields.io/badge/-Linkedin-%238257E6">
   </a>
 
   <a href="LICENSE" >
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-%4953b8">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23#8257E6">
   </a>
 
 </p>
