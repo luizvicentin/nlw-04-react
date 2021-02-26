@@ -2,9 +2,9 @@
     <img alt="NLW04" src="https://github.com/luizvicentin/nlw-04-react/blob/main/moveit-next/public/NLW04.jpg" width="250px" />
 </h1>
 
-<h3 align="center">
+<h2 align="center">
   Next Level Week 04 | MoveIt
-</h3>
+</h2>
 
 <blockquote align="center">“Faça seu melhor, mas sempre com prazo de entrega!”</blockquote>
 
