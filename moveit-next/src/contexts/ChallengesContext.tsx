@@ -48,6 +48,8 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
     setActiveChallenge(null);
   }
 
+  function completeChallenge() {}
+
   return (
     <ChallengesContext.Provider
       value={{
